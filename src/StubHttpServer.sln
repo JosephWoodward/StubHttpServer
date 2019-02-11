@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StubHttpServer", "StubHttpServer\StubHttpServer.csproj", "{F9F059A6-80C0-44A3-A0D1-D762728E8BB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StubHttpServer.Tests", "StubHttpServer.Tests\StubHttpServer.Tests.csproj", "{51E88309-243D-4181-97A1-31A9E7C01005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9F059A6-80C0-44A3-A0D1-D762728E8BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F059A6-80C0-44A3-A0D1-D762728E8BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F059A6-80C0-44A3-A0D1-D762728E8BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F059A6-80C0-44A3-A0D1-D762728E8BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E88309-243D-4181-97A1-31A9E7C01005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E88309-243D-4181-97A1-31A9E7C01005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E88309-243D-4181-97A1-31A9E7C01005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E88309-243D-4181-97A1-31A9E7C01005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

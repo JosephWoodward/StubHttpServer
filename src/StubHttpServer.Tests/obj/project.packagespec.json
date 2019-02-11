@@ -1,0 +1,65 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/jwoodward/Dev/StubHttpServer/src/StubHttpServer.Tests/StubHttpServer.Tests.csproj",
+    "projectName": "StubHttpServer.Tests",
+    "projectPath": "/Users/jwoodward/Dev/StubHttpServer/src/StubHttpServer.Tests/StubHttpServer.Tests.csproj",
+    "outputPath": "/Users/jwoodward/Dev/StubHttpServer/src/StubHttpServer.Tests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "/Users/jwoodward/Dev/StubHttpServer/src/StubHttpServer/StubHttpServer.csproj": {
+            "projectPath": "/Users/jwoodward/Dev/StubHttpServer/src/StubHttpServer/StubHttpServer.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.0.0-preview-20181205-02, )"
+        },
+        "Microsoft.NETCore.App": {
+          "include": "None",
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[3.0.0-preview-27324-5, )",
+          "autoReferenced": true
+        },
+        "Microsoft.NETCore.Platforms": {
+          "target": "Package",
+          "version": "[3.0.0-preview.19073.11, )",
+          "autoReferenced": true
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
