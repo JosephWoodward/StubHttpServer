@@ -13,11 +13,16 @@ namespace StubHttpServer.Tests
         {
             _server = new StubHttpServer();
         }
-        
+
         [Fact]
-        public void Test1()
+        public async Task Test1()
         {
-            var client = new HttpClient("");
+            var client = new HttpClient {BaseAddress = new Uri("http://localhost:8181")};
+            var resp = await client.GetAsync("/hello/world");
+
+            resp.StatusCode.Should
+
+
         }
 
         public void Dispose()

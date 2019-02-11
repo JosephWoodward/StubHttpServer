@@ -46,6 +46,10 @@
           "version": "[3.0.0-preview.19073.11, )",
           "autoReferenced": true
         },
+        "Shouldly": {
+          "target": "Package",
+          "version": "[4.0.0-beta0001, )"
+        },
         "xunit": {
           "target": "Package",
           "version": "[2.4.0, )"

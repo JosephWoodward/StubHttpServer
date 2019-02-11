@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21edde9c-929a-4485-b190-2b368c3f8fa2" name="Default Changelist" comment="" />
+    <list default="true" id="21edde9c-929a-4485-b190-2b368c3f8fa2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/StubHttpServer.Tests/DemoTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StubHttpServer.Tests/DemoTest.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,17 +35,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/StubHttpServer.Tests/DemoTest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="39" />
+            <state relative-caret-position="130">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding>
-                <marker date="1549873343722" expanded="false" signature="6:79" ph="..." />
-                <marker date="1549873343722" expanded="true" signature="111:723" ph="{...}" />
-                <marker date="1549873343722" expanded="true" signature="169:721" ph="{...}" />
-                <marker date="1549873343722" expanded="true" signature="251:315" ph="{...}" />
-                <marker date="1549873343722" expanded="true" signature="367:432" ph="{...}" />
-                <marker date="1549873343722" expanded="true" signature="463:515" ph="{...}" />
-                <marker date="1549873343722" expanded="true" signature="560:620" ph="{...}" />
-                <marker date="1549873343722" expanded="true" signature="656:715" ph="{...}" />
+                <marker date="1549873638049" expanded="false" signature="6:79" ph="..." />
+                <marker date="1549873638049" expanded="true" signature="111:860" ph="{...}" />
+                <marker date="1549873638049" expanded="true" signature="169:858" ph="{...}" />
+                <marker date="1549873638049" expanded="true" signature="251:315" ph="{...}" />
+                <marker date="1549873638049" expanded="true" signature="365:569" ph="{...}" />
+                <marker date="1549873638049" expanded="true" signature="600:652" ph="{...}" />
+                <marker date="1549873638049" expanded="true" signature="697:757" ph="{...}" />
+                <marker date="1549873638049" expanded="true" signature="793:852" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -51,8 +53,12 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/StubHttpServer/EnvironmentContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8B82C900-C015-406E-ACD8-7377BE2543BD/a2/a3d1e125/HttpClient.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/StubHttpServer.Tests/DemoTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/StubHttpServer/StubHttpServer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -71,6 +77,7 @@
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -148,12 +155,12 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
+      <window_info active="true" anchor="bottom" id="NuGet" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Unit Tests" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Terminal" weight="0.329927" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -219,19 +226,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8B82C900-C015-406E-ACD8-7377BE2543BD/a2/a3d1e125/HttpClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="96" column="56" lean-forward="true" selection-start-line="96" selection-start-column="56" selection-end-line="96" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/StubHttpServer.Tests/DemoTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="39" />
+        <state relative-caret-position="130">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding>
-            <marker date="1549873343722" expanded="false" signature="6:79" ph="..." />
-            <marker date="1549873343722" expanded="true" signature="111:723" ph="{...}" />
-            <marker date="1549873343722" expanded="true" signature="169:721" ph="{...}" />
-            <marker date="1549873343722" expanded="true" signature="251:315" ph="{...}" />
-            <marker date="1549873343722" expanded="true" signature="367:432" ph="{...}" />
-            <marker date="1549873343722" expanded="true" signature="463:515" ph="{...}" />
-            <marker date="1549873343722" expanded="true" signature="560:620" ph="{...}" />
-            <marker date="1549873343722" expanded="true" signature="656:715" ph="{...}" />
+            <marker date="1549873638049" expanded="false" signature="6:79" ph="..." />
+            <marker date="1549873638049" expanded="true" signature="111:860" ph="{...}" />
+            <marker date="1549873638049" expanded="true" signature="169:858" ph="{...}" />
+            <marker date="1549873638049" expanded="true" signature="251:315" ph="{...}" />
+            <marker date="1549873638049" expanded="true" signature="365:569" ph="{...}" />
+            <marker date="1549873638049" expanded="true" signature="600:652" ph="{...}" />
+            <marker date="1549873638049" expanded="true" signature="697:757" ph="{...}" />
+            <marker date="1549873638049" expanded="true" signature="793:852" ph="{...}" />
           </folding>
         </state>
       </provider>
